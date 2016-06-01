@@ -1,0 +1,2 @@
+XSLT Instructions using Xalan:
+java org.apache.xalan.xslt.Process -in C-CDA2test.xml -xsl xml2freemind-CCDA.xsl -out C-CDA2test2.mm
